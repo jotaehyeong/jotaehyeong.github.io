@@ -12,12 +12,12 @@
   <h4>조태형</h4>
 <p>hello.jsp소스코드</p>
   <picture>
-    <source media="(min-width: 768px)" srcset="./radio.source.png"/>
+    <source media="(min-width: 768px)" srcset="./hello source.png"/>
     <img src="./hello source.png" alt="소스코드" style="width:auto;"/>
   </picture>
   <p>hello.jsp결과화면</p>
   <picture>
-    <source media="(min-width: 768px)" srcset="./radio.result1.png"/>
+    <source media="(min-width: 768px)" srcset="./hello result1.png"/>
     <img src="./hello result.png" alt="결과화면" style="width:auto;"/>
   </picture>
 </section></body></html>
